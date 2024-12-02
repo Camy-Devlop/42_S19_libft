@@ -2,7 +2,7 @@
 ## 📚 Bibliothèque C personnalisée - Projet École 42
 Bienvenue dans le projet libft, une bibliothèque C contenant des implémentations personnelles de fonctions utiles, développée dans le cadre du cursus de l'École 42.
 ## 📜 Description
-Ce projet consiste à créer une bibliothèque de fonctions C couramment utilisées. C'est une excellente opportunité pour approfondir sa compréhension des structures de données et des algorithmes en C, tout en construisant un outil précieux pour de futurs projets.
+Ce projet consiste à créer une bibliothèque de fonctions C couramment utilisées. C'est une excellente opportunité pour approfondir sa compréhension des structures de données et des algorithmes en C, tout en construisant un outil précieux pour de futurs projets .
 
 # Compiler la bibliothèque
      make
