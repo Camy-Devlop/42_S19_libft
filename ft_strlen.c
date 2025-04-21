@@ -6,7 +6,7 @@
 /*   By: isadbaib <isadbaib@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/19 18:51:57 by isadbaib          #+#    #+#             */
-/*   Updated: 2024/10/23 21:18:58 by isadbaib         ###   ########.fr       */
+/*   Updated: 2025/04/21 21:56:40 by isadbaib         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,8 @@ size_t	ft_strlen(const char *str)
 	size_t	i;
 
 	i = 0;
+	if (!*str)
+		return (0);
 	if (!str)
 		return (0);
 	while (*str++)
